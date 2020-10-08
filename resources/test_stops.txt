@@ -1,0 +1,101 @@
+Origin Stop Id;Destination Stop Id;Origin Stop Name;Destination Stop Name;Criteria
+21631;20328;İstiklal;Atakent;2
+21515;30061;Ulukent Meydan;Beşinci Sanayi;1
+22220;21880;Salhane Aktarma Merkezi;Seyirtepe;1
+12617;50065;Karanfil;Pina;2
+22033;20548;Hakim Evleri;Yamanlar Semt Kütüphanesi;1
+40475;12619;Hüdaverdi Cami;Dede;2
+30745;12274;Anıt;Yeşilyurt Devlet Hastanesi;2
+10868;11226;Otel;Doğanpak;1
+11221;11243;Nesaç;23 Nisan;2
+21757;40722;Merkez İlköğretim Okulu;Saha;2
+10329;21399;Hocazade Cami;Egekent 2;2
+30235;20902;İkinci Sanayi;Muhtarlık;2
+40733;10292;Buca Devlet Hastanesi;Göztepe Stadı;2
+50122;12617;Yakamoz;Karanfil;2
+40761;50202;Yeşilkent;Ata Durağı;2
+10123;31299;Şifa;Malazgirt İlköğretim Okulu;2
+20909;40724;Güzeltepe Muhtarlık;Köprü;2
+31337;12193;Sevgi;İnönü;1
+40177;11954;Fırın;Gazi Caddesi;1
+13616;50026;Orhanlı İÖO;İzsu;1
+11479;11374;Pınar;Tarım Köy İşleri;1
+50475;40088;Sağlık Ocağı;Begos;1
+40685;12012;Seksen Dokuz Önü;Adem Yavuz Parkı;2
+10706;12960;Ahmet Necdet Sezer;Hava Teknik Okulu;1
+31281;40641;Suphi Koyuncu;Mimar Kemalettin İlköğretim Okulu;2
+10336;11878;Hocazade Cami;Atatürk Stadı;1
+40106;31008;Yeniyol;Damla;1
+30650;40271;Pınarbaşı Depolar;Buca Anadolu Lisesi;1
+30995;30424;Taş Ocağı;Zeytintepe;2
+10636;21321;Söğüt;Tekel Lojmanlar;2
+40422;20415;Yıkıkkemer Meydan;Birlik;2
+41210;20096;Adatepe Villaları;Balatçık Kahveler;1
+12139;40697;Gökalp;Mehtap;1
+21217;10408;Eltaş;Kapalı Spor Salonu;1
+10573;31010;Emre;Süleyman Eczacıbaşı İlköğretim Okulu;2
+12890;10773;İkinci Nizamiye;Kısıkköy;2
+30187;10407;Dispanser;Yirmi Altı Ağustos;1
+30185;10013;Pazar Yeri;Bahribaba;2
+11826;50085;Cumhuriyet Mahallesi Hastane;Liman;1
+21827;21844;Helvacı Ovası;Bağarası Buz;2
+10369;40063;Yenişehir PTT;Spor Salonu;1
+13480;13474;Ondokuz Mayıs;Yonca;2
+10129;10224;Çardak;Mezarlıkbaşı;2
+20769;22069;Çifte Havuzlar;Şirinevler Giriş;2
+13345;10715;Kemer Aktarma Merkezi;Menderes Sağlık Ocağı;2
+41298;12937;Buca Tapu Dairesi;Özcan Sitesi;2
+10738;11066;Görece Trafo;İzder;1
+30981;22192;Çay Mahallesi;Mavişehir Aktarma Merkezi;2
+50891;40756;Fahrettin Altay Aktarma Merkezi;Eski Garaj;1
+12456;12750;Kooperatif Evleri Eski Son Durak;Doğan;2
+12605;12586;Sinan Cami;Eserkent;2
+30423;30406;Zeytintepe;Hürsa;2
+21517;10282;Ulukent Çıkış;Çeşme;2
+22540;22037;Yamanlar Muradiye Cami;Körfez Evleri Giriş;2
+13438;11359;Pınar Mevkii;Ayrancılar Çok Amaçlı Lisesi;2
+12977;12213;Sarnıç Trafo;Bayram Kahya;1
+50067;50947;Maltepe;Kehribar;2
+30034;10365;Mimar Sinan Meslek Lisesi;Ziya gökalp İlköğretim Okulu;1
+100037;21064;Stadyum;Evka 5 Trafo;1
+10151;12623;Karantina;Kaymakkuyu 2;2
+10169;50652;Faik Bey;Manolya;2
+20603;1000234;Market;Alsancak;1
+21650;21387;Fatma Koşay İlköğretim Okulu;Doğankent;1
+11310;13616;Gürsel;Orhanlı İÖO;2
+10771;14398;Ormancı;Göllüce Cami;1
+22275;20001;Orkide;Karşıyaka İskele;1
+10722;100043;Samancıoğlu Cami;Bostanlı;2
+50649;50567;Çardak Kamp;Egeli;2
+12198;12673;Yağhaneler 3;İyi Burnaz İlköğretim Okulu;1
+31214;30422;Osman Gazi;Çamkule;2
+31035;11291;Bayraklı Lisesi;Oğlananası Üçyol;1
+12777;40833;Sümbül;Manolya;1
+12619;40176;Dede;Tren Yolu;1
+1000220;31457;Salhane;İzyuva;1
+10642;20420;Karabağlar;Çam;2
+50453;40705;Ulamış Giriş;Cumhuriyet Lisesi;1
+20185;13346;Yıllar;Kemer Aktarma Merkezi;2
+12619;12808;Dede;Destan Aksoy Parkı;1
+14271;13042;Sarnıç Gölet;Köşe;1
+30711;30426;Yeşilçam Market;Merkez Cami;1
+31552;14218;Otogar Yeni;Huzurkent Sitesi;1
+12272;20134;Yeşilyurt Çeşme;Bayraklı Üst Geçit;2
+20577;20660;Postacılar Trafo;Dostlar;2
+10492;20865;Halkapınar 2;Maltepe Giriş;2
+21619;41176;Şahin;Şirinyer Aktarma;2
+22015;10673;Yüksek Vadi;Sarnıç Alt Geçidi;1
+1000314;50666;Hatay;Kamp;1
+14329;50892;Kalp Damar Hastanesi;Fahrettin Altay Aktarma Merkezi;2
+100036;30376;Halkapınar;Mezarlık;2
+40371;12421;Umut;Şehitler;1
+12518;50169;Limontepe Pazar Yeri;Gümüş;1
+20158;20646;Karşıyaka Evlendirme Dairesi;Karşıyaka Belediye Atölyesi;1
+30374;40854;Topçu Birliği;Emek;1
+10688;22190;Hava Limanı;Mavişehir Aktarma Merkezi;1
+10363;50025;Eşref Paşa Hastanesi;Kantar;1
+11260;11223;Gölcükler İlköğretim Okulu;Arpi;1
+11940;41139;Levent Çeşme;Mavi Köşe;2
+12219;10290;Eski İzmir Karakolu;Denizmen;1
+100032;50399;Konak;Kent Koleji;1
+12729;10178;Eyüp El Ensari Cami;Adnan Saygun Sanat Merkezi;1
